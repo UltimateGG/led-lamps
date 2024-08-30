@@ -1,0 +1,6 @@
+{
+  "parent": "ledlamps:block/lamp_on",
+  "textures": {
+    "all": "ledlamps:block/lampon/12"
+  }
+}

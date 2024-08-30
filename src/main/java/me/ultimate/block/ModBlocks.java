@@ -15,26 +15,10 @@ import java.util.ArrayList;
 
 
 public class ModBlocks {
-	public static final DyeColor[] LAMP_COLORS = new DyeColor[] {
-			DyeColor.WHITE,
-			DyeColor.RED,
-			DyeColor.ORANGE,
-			DyeColor.YELLOW,
-			DyeColor.LIME,
-			DyeColor.GREEN,
-			DyeColor.LIGHT_BLUE,
-			DyeColor.CYAN,
-			DyeColor.BLUE,
-			DyeColor.PURPLE,
-			DyeColor.MAGENTA,
-			DyeColor.PINK,
-			DyeColor.GRAY
-	};
-
 	public static final ArrayList<LampBlock> LAMP_BLOCKS = new ArrayList<>();
 
 	static {
-		for (DyeColor color : LAMP_COLORS) {
+		for (DyeColor color : DyeColor.values()) {
 			LAMP_BLOCKS.add(
 					register(new LampBlock(color), color.getName() + "_lamp")
 			);

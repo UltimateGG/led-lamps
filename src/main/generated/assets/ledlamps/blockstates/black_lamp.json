@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "ledlamps:block/black_lamp"
+    },
+    "lit=true": {
+      "model": "ledlamps:block/black_lamp_on"
+    }
+  }
+}

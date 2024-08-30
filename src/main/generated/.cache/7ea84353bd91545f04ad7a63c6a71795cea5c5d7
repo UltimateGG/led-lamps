@@ -1,8 +1,10 @@
-// 1.20.1	2024-08-25T20:06:40.263599	LED Lamps/Block Loot Tables
+// 1.20.1	2024-08-30T16:42:02.5545321	LED Lamps/Block Loot Tables
 2eef0ca0a6ca0a048df5f81826092f17dc09500c data\ledlamps\loot_tables\blocks\red_lamp.json
 7847b1f6327437b69383e28acdb226fe98ca701b data\ledlamps\loot_tables\blocks\lime_lamp.json
 47bc82ff3d070e01c37b5f6b6ddb1fc93284b040 data\ledlamps\loot_tables\blocks\gray_lamp.json
 be3c9692db5e5b113f76df59aba6de7bf6bf9f1b data\ledlamps\loot_tables\blocks\pink_lamp.json
+46d176557f833938e095d6a01baf4fd25aad451c data\ledlamps\loot_tables\blocks\black_lamp.json
+53ace9327a936c8a68dffe942a5c42a6f8581312 data\ledlamps\loot_tables\blocks\brown_lamp.json
 ef02fe99d40b66f11e9baafe63bdca3c50f5ebc7 data\ledlamps\loot_tables\blocks\orange_lamp.json
 ee3244dd9d0270d428d89186bb8a7e4b0e0ca674 data\ledlamps\loot_tables\blocks\green_lamp.json
 51b50ad53fe8d664f34ae1c9551e148fc5752ace data\ledlamps\loot_tables\blocks\light_blue_lamp.json
@@ -10,5 +12,6 @@ ee3244dd9d0270d428d89186bb8a7e4b0e0ca674 data\ledlamps\loot_tables\blocks\green_
 492e87a9b0c34731afb423e9efcc45ff920fdf44 data\ledlamps\loot_tables\blocks\yellow_lamp.json
 19c85195b58223bd5f20797b9f17edc781b17e64 data\ledlamps\loot_tables\blocks\purple_lamp.json
 35a687040f6e1e35c006783a4de8013bb5c40307 data\ledlamps\loot_tables\blocks\magenta_lamp.json
+b0c2a32419bd65a1c1428d97f891551c6dd7aaff data\ledlamps\loot_tables\blocks\light_gray_lamp.json
 eeac013465f53dc7a49f18cca1b3c8d5caf62bcf data\ledlamps\loot_tables\blocks\blue_lamp.json
 0b272e6224e55719eacf832466114c10ef72523c data\ledlamps\loot_tables\blocks\cyan_lamp.json
