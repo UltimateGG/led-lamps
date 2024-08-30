@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "led_lamps",
+  "key": {
+    "d": {
+      "item": "minecraft:gray_dye"
+    },
+    "g": {
+      "item": "minecraft:glass"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "gdg",
+    "gdg",
+    "grg"
+  ],
+  "result": {
+    "count": 4,
+    "item": "ledlamps:gray_lamp"
+  },
+  "show_notification": true
+}

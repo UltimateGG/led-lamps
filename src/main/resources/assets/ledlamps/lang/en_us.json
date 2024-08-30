@@ -1,0 +1,15 @@
+{
+  "block.ledlamps.white_lamp": "White Lamp",
+  "block.ledlamps.red_lamp": "Red Lamp",
+  "block.ledlamps.orange_lamp": "Orange Lamp",
+  "block.ledlamps.yellow_lamp": "Yellow Lamp",
+  "block.ledlamps.lime_lamp": "Lime Lamp",
+  "block.ledlamps.green_lamp": "Green Lamp",
+  "block.ledlamps.light_blue_lamp": "Light Blue Lamp",
+  "block.ledlamps.cyan_lamp": "Cyan Lamp",
+  "block.ledlamps.blue_lamp": "Blue Lamp",
+  "block.ledlamps.purple_lamp": "Purple Lamp",
+  "block.ledlamps.magenta_lamp": "Magenta Lamp",
+  "block.ledlamps.pink_lamp": "Pink Lamp",
+  "block.ledlamps.gray_lamp": "Gray Lamp"
+}

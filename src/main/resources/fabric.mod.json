@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "ledlamps",
+	"version": "${version}",
+	"name": "LED Lamps",
+	"description": "Add industrial RGB LED lamps to Minecraft, inspired by RedPower 2",
+	"authors": [
+		"TNTLimit"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/ledlamps/icon.png",
+	"environment": "*",
+	"accessWidener": "ledlamps.accesswidener",
+	"entrypoints": {
+		"main": [
+			"me.ultimate.LEDLamps"
+		],
+		"client": [
+			"me.ultimate.LEDLampsClient"
+		],
+		"fabric-datagen": [
+          "me.ultimate.datagen.DataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

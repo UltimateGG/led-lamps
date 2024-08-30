@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "ledlamps:block/green_lamp"
+    },
+    "lit=true": {
+      "model": "ledlamps:block/green_lamp_on"
+    }
+  }
+}
