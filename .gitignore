@@ -30,9 +30,11 @@ bin/
 
 # fabric
 
-run/
-!run/shaderpacks/Solas Modded
-!run/shaderpacks/Solas Modded.txt
+run/**
+!run/shaderpacks
+!run/shaderpacks/Solas\ Modded.zip
+!run/shaderpacks/Solas\ Modded.txt
+
 
 # java
 
