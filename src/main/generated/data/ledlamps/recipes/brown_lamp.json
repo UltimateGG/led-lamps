@@ -4,7 +4,7 @@
   "group": "led_lamps",
   "key": {
     "d": {
-      "item": "minecraft:white_dye"
+      "item": "minecraft:brown_dye"
     },
     "g": {
       "item": "minecraft:glass"

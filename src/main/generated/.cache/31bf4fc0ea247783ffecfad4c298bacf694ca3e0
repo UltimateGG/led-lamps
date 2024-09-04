@@ -1,4 +1,4 @@
-// 1.20.1	2024-08-30T16:42:02.5505316	LED Lamps/Model Definitions
+// 1.20.1	2024-09-03T22:02:19.6834297	LED Lamps/Model Definitions
 b40a8d93645e96a8dc30c4be4a7351e22bae62cf assets\ledlamps\models\block\light_gray_lamp_on.json
 d383d5629edeea0cba82e1b4c8a85a415ef5cb80 assets\ledlamps\models\block\red_lamp_on.json
 6f8f291e4f0e7c9f85e2ca6e540078a7979fa1be assets\ledlamps\blockstates\purple_lamp.json
@@ -8,8 +8,8 @@ d383d5629edeea0cba82e1b4c8a85a415ef5cb80 assets\ledlamps\models\block\red_lamp_o
 d9f2129c60d4c01d0c99c59ec51174e89c4fa5fc assets\ledlamps\blockstates\white_lamp.json
 4bffa21f54f7c88cc2bf7fe76d89940bffbf8bbf assets\ledlamps\blockstates\magenta_lamp.json
 9cc8c091f465966701bcd6fe865a1f5226e19b08 assets\ledlamps\models\item\orange_lamp.json
-b1f482a0befc7e8b976faa847f9a5d10cd7ec488 assets\ledlamps\models\block\cyan_lamp_on.json
 b43a19d41cbfbe614728c82a4ead7570c386d3cf assets\ledlamps\blockstates\red_lamp.json
+b1f482a0befc7e8b976faa847f9a5d10cd7ec488 assets\ledlamps\models\block\cyan_lamp_on.json
 5ebe64a37de3d5aff6019714c702fdd3a7bbbe7b assets\ledlamps\models\block\cyan_lamp.json
 49620d98f0b80361c47ab39ba8821f3671a817b9 assets\ledlamps\models\item\yellow_lamp.json
 5f7e0ffdd93ff6ed75055db16a0731d34d87cdcf assets\ledlamps\blockstates\lime_lamp.json
